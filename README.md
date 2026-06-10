@@ -31,3 +31,15 @@ This project demonstrates **agent-to-agent economic interaction** — one of the
 ```bash
 npm install
 node gateway-agent.js
+
+Open: http://localhost:3000
+
+Environment Variables
+ARC_TESTNET_RPC_URL=https://rpc.testnet.arc.network
+PRIVATE_KEY_AGENT_A=0x...
+PRIVATE_KEY_AGENT_B=0x...
+TOGGLE_PASSWORD=yourpassword
+
+
+Built ForArc Testnet • Agentic Economy experiments • Agora Agents Hackathon style projectsMade with  for the Arc ecosystem
+
